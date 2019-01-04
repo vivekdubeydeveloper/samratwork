@@ -1,0 +1,12 @@
+{
+	"samratsbucket": {
+		"basepath": "C:/vivek/personal/samrat/input/1/",
+		"filesName": "abc.pdf,cde.pdf,efg.pdf",
+		"region": "EU_CENTRAL_1"
+	},
+	"samratsbucket1": {
+		"basepath": "C:/vivek/personal/samrat/input/2/",
+		"filesName": "",
+		"region": "EU_CENTRAL_1"
+	}
+}

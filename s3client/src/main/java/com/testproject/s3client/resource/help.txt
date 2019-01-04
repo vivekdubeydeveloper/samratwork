@@ -1,0 +1,4 @@
+1)Run maven and download the jars
+2) define input json path in client.properties file Example input_json_file=C:/vivek/personal/samrat/input/input.json
+
+3)Run the AmazonS3Client
